@@ -1,0 +1,30 @@
+*
+Louis Armstrong
+Trumpet
+1901
+1971
+*
+Frank Sinatra
+Singer
+1915
+1998
+*
+Count Basie
+Piano
+1904
+1984
+*
+Ella Fitzgerald
+Singer
+1917
+1996
+*
+Benny Goodman
+Clarinet
+1909
+1986
+*
+Billie Holiday
+Singer
+1915
+1959

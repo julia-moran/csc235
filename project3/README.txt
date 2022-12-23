@@ -1,3 +1,6 @@
+Note:
+The pattern described in the instructions can be found in the LEDpattern.PNG file
+
 Assignment Instructions:
 
 This project involves creating a circuit in Logisim that makes use of sequential logic. In
